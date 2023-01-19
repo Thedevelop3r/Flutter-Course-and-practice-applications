@@ -1,0 +1,18 @@
+ #:1-Delete button blue print
+
+TextButton(
+onPressed: () {},
+child: Row(
+children: [
+Icon(
+Icons.delete,
+color: Colors.green,
+),
+Text(
+'Create',
+style: TextStyle(color: Colors.black),
+)
+],
+)),
+
+# blueprint end

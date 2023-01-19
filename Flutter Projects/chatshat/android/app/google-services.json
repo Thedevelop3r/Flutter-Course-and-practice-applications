@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472790660772",
+    "project_id": "chatshat-6dbb4",
+    "storage_bucket": "chatshat-6dbb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472790660772:android:fd12d6f4c864959afe5831",
+        "android_client_info": {
+          "package_name": "com.example.chatshat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472790660772-j07uqff9i2fktgtquvb3u0dt2uqcps90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLqqDb2gtd-3jy7IW7K6iH1cD7hqmKoqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472790660772-j07uqff9i2fktgtquvb3u0dt2uqcps90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
